@@ -1,4 +1,4 @@
-# Minijuego-Cosecha-de-Miel-El-Desaf-o-de-la-Apicultura
+# Minijuego-Cosecha-de-Miel-El-Desafio-de-la-Apicultura
 # 🍯 Cosecha de Miel - El Desafío de la Apicultura
 
 Bienvenido al minijuego **Cosecha de Miel**, una experiencia estratégica e individual desarrollada en **React**. Representa a tu facción, gestiona tus recursos, defiende tu colmena y recolecta la mayor cantidad de miel para alzarte como el campeón apícola 🐝.
